@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+  <student>
+    <name>Erdei Gréta</name>
+    <course>halal</course>
+    <mark>3</mark>
+    <type>esti</type>
+  </student>
+  <student>
+    <name>Huszár Róbert</name>
+    <course>fnyg</course>
+    <mark>3</mark>
+    <type>nappali</type>
+  </student>
+  <student>
+    <name>Kiss Géza</name>
+    <course>sztf1</course>
+    <mark>5</mark>
+    <type>nappali</type>
+  </student>
+  <student>
+    <name>Kiss Géza</name>
+    <course>archi1</course>
+    <mark>4</mark>
+    <type>nappali</type>
+  </student>
+  <student>
+    <name>Kiss Géza</name>
+    <course>whp</course>
+    <mark>4</mark>
+    <type>nappali</type>
+  </student>
+  <student>
+    <name>Kiss Miklós</name>
+    <course>archi1</course>
+    <mark>2</mark>
+    <type>esti</type>
+  </student>
+  <student>
+    <name>Kiss Miklós</name>
+    <course>opre</course>
+    <mark>2</mark>
+    <type>esti</type>
+  </student>
+  <student>
+    <name>Nagy Attila</name>
+    <course>archi1</course>
+    <mark>5</mark>
+    <type>nappali</type>
+  </student>
+  <student>
+    <name>Nagy Attila</name>
+    <course>opre</course>
+    <mark>5</mark>
+    <type>nappali</type>
+  </student>
+  <student>
+    <name>Nagy Attila</name>
+    <course>halal</course>
+    <mark>5</mark>
+    <type>nappali</type>
+  </student>
+  <student>
+    <name>Nagy Ferenc</name>
+    <course>whp</course>
+    <mark>2</mark>
+    <type>esti</type>
+  </student>
+  <student>
+    <name>Nagy Ferenc</name>
+    <course>sztf1</course>
+    <mark>3</mark>
+    <type>esti</type>
+  </student>
+  <student>
+    <name>Péter Mónika</name>
+    <course>archi1</course>
+    <mark>2</mark>
+    <type>nappali</type>
+  </student>
+  <student>
+    <name>Péter Mónika</name>
+    <course>opre</course>
+    <mark>1</mark>
+    <type>nappali</type>
+  </student>
+  <student>
+    <name>Pollák Csilla</name>
+    <course>opre</course>
+    <mark>4</mark>
+    <type>esti</type>
+  </student>
+  <student>
+    <name>Szôllôssy Janka</name>
+    <course>whp</course>
+    <mark>5</mark>
+    <type>esti</type>
+  </student>
+  <student>
+    <name>Szôllôssy Janka</name>
+    <course>fnyg</course>
+    <mark>1</mark>
+    <type>esti</type>
+  </student>
+  <student>
+    <name>Tóth László</name>
+    <course>whp</course>
+    <mark>4</mark>
+    <type>esti</type>
+  </student>
+</students>
