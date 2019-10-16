@@ -67,6 +67,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ColoredPropertyAttribute.cs" />
     <Compile Include="course.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
